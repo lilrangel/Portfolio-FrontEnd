@@ -1,0 +1,61 @@
+#whatsapp:hover {
+	color: green;
+}
+body{
+	background-color: whitesmoke ;
+	}
+
+/* comentarios en css box sizing:  border box para que la caja tenga siempre el tamaño de pixeles que queremos sin molestar a las otras cajas*/
+
+#imgportada{
+	border-radius: 20px;
+	box-shadow: 2px 4px 15px 0 gray, 2px 4px 15px 0 gray;
+	width: 1300px;
+	margin-left: 250px;
+	margin-top: 50px;
+}
+section{
+	margin-top: -200px;
+}
+article{	
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-bottom: 30px;
+	margin-top: 10px;
+	font-family: font-family: 'Nunito', sans-serif;
+	background-color: #fff;
+	padding: 50px;
+	text-align: left;
+	border-radius: 10px;
+	box-shadow: 2px 4px 15px 0 dimgray;
+	text-decoration-style: #fff;
+	 
+}
+   
+ #ftperfil{
+ 	border-radius: 50%;
+ 	box-shadow: 2px 4px 15px 0 gray, 2px 4px 15px 0 gray, 2px 4px 15px 0 gray, 2px 4px 15px 0 gray;
+   position: relative;
+   top: -380px;
+   left: 100px; 
+}
+
+header{
+	background-color: salmon;
+	color: white;
+	height: 60px;
+	text-align: left;
+
+}
+ul{
+	float: right;
+	
+}
+h1{
+	
+	padding: 10px;
+}*/
+
+footer{
+	background-color: salmon;
+}
